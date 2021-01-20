@@ -7,7 +7,30 @@ const emojiDictionary = {
   "😔": "sad",
   "🥡": "takeout box",
   "❤️": "love",
-  "😑": "annoyance"
+  "😑": "annoyance",
+  "🥺": "Pleading Face",
+  "✨": "Sparkles",
+  "😂": "Face with Tears of Joy",
+  "🔥": "Fire",
+  "🙈": "See-No-Evil Monkey",
+  "🙉": "Hear-No-Evil Monkey",
+  "🙊": "Speak-No-Evil Monkey",
+  "🐮": "Cow Face",
+  "🐂": "Ox",
+  "🐃": "Water Buffalo",
+  "🐄": "Cow",
+  "🐷": "Pig Face",
+  "🐖": "Pig",
+  "🐗": "Boar",
+  "🐽": "Pig Nose",
+  "🐏": "Ram",
+  "🐑": "Ewe",
+  "🐐": "Goat",
+  "🐪": "Camel",
+  "🐫": "Two-Hump Camel",
+  "🦙": "Llama",
+  "🦒": "Giraffe",
+  "🐘": "Elephant"
 };
 var emojisWeKnow = Object.keys(emojiDictionary);
 
